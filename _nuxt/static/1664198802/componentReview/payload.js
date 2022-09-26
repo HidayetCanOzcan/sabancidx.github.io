@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/componentReview", {data:[{_img:{"/_ipx/f_webp,s_138x38/global-images/logo.png":"\u002F_nuxt\u002Fimage\u002F6c2b9f.webp"}}],fetch:{},mutations:void 0});
