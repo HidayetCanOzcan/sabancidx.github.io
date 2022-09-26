@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/componentReview", {data:[{_img:{"/sabancidx.github.io/_ipx/f_webp,s_138x38/global-images/logo.png":"\u002Fsabancidx.github.io\u002F_nuxt\u002Fimage\u002Fc2c3e1.webp"}}],fetch:{},mutations:void 0});
